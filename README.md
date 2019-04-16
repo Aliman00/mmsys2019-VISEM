@@ -1,2 +1,2 @@
 # mmsys2019-VISEM
-GitHub repository for the VISEM dataset.
+The dataset is avaialbe here: https://zenodo.org/record/2640506
